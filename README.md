@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saaunghtetnyein711@gmail.com**
 
-- ⚡ Fun fact **FROG**
+- ⚡ Fun fact **SLEEP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

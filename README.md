@@ -5,8 +5,6 @@
 
 # 💫About Me :
 
-- 🔭 I’m currently working on **Xsphere**
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **saaunghtetnyein711@gmail.com**

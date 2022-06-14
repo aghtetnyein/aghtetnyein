@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **saaunghtetnyein711@gmail.com**
+- 📫 How to reach me **aunghtetnyein1999@gmail.com**
 
 - ⚡ Fun fact **CATS**
 

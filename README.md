@@ -13,7 +13,7 @@
 - 🧠 Led frontend for an **AI-driven ERP**; currently building **LMS platforms, games, and AI image-generation services** at a remote product studio
 - ⚡ Specialized in **React / Next.js, TypeScript, and LLM integration**
 - 🌍 Based in **Bangkok, Thailand** — remote-friendly
-- 🌐 Portfolio: **[saaunghtetnyein.dev](https://saaunghtetnyein.dev)**
+- 🌐 Portfolio: **[https://sasa-profile.vercel.app](https://sasa-profile.vercel.app)**
 - 📫 Reach me: **saaunghtetnyein711@gmail.com**
 - 🐈 Fun fact: **cats**
 
